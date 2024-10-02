@@ -1,0 +1,17 @@
+{
+  "name": "api1",
+  "version": "1.0.0",
+  "description": "Mi primer api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "DanielDev87",
+  "license": "ISC",
+  "dependencies": {
+    "api1": "file:",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security"
+  }
+}
